@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# mongodb bind mount
+/mongo_data
+
+# redis bind mount
+/redis_data
